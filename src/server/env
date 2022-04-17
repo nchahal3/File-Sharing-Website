@@ -1,0 +1,2 @@
+MONGOOSE_ADDR="mongodb://localhost:27017"
+SESSION_KEY="hyjwwcB4wM2baNIO7Die"
